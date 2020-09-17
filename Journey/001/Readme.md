@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+- <img width="1028" alt="Screen Shot 2020-09-17 at 10 44 16 am" src="https://user-images.githubusercontent.com/71141308/93413998-0726e980-f8d3-11ea-85b4-0542bd29796a.png">
 
 # Get initiation to Github and learn about basic Cloud Concepts.
 
