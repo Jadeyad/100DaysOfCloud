@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## [Jai Yadav]'s Cloud Journey
 
-[✍️ Introduce yourself]
+[New cloud enthusiast who wants to contribute to delivery of efficient/ sustainable implemenatations of cloud technology]
 
-[✍️ Tell us why you started this challenge]
+[Learn all I can about cloud technology and collaborate with developers to reduce the distance between developers and product]
 
-[✍️ Tell us where you want to be at the end of the challenge]
+[I would like to get AZ-900 certified and then appraoch AI certifications]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [@jai_yad](https://twitter.com/@jai_yad)
+- [LinkedIn](https://www.linkedin.com/in/jai-yadav-3893541)
 
 ## Stepping out the door
 
