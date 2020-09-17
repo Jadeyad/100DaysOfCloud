@@ -20,13 +20,6 @@ Last two days I struggled to find time and focus to begin my journey, but from t
 I have in the last 3 days competed the "Cloud Concepts - Principles of cloud computing" 10 modules.
 - <img width="1028" alt="Screen Shot 2020-09-17 at 10 17 31 am" src="https://user-images.githubusercontent.com/71141308/93412508-ddb88e80-f8cf-11ea-84c5-227457bf51df.png">
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
