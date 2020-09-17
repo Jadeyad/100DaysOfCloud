@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [Jai Yadav]'s Cloud Journey
+## Jai Yadav's Cloud Journey
 
-[New cloud enthusiast who wants to contribute to delivery of efficient/ sustainable implemenatations of cloud technology]
+New cloud enthusiast who wants to contribute to delivery of efficient/ sustainable implemenatations of cloud technology.
 
-[Learn all I can about cloud technology and collaborate with developers to reduce the distance between developers and product]
+Learn all I can about cloud technology and collaborate with developers to reduce the distance between developers and product.
 
-[I would like to get AZ-900 certified and then appraoch AI certifications]
+I would like to get AZ-900 certified and then appraoch AI certifications.
 
-- [@jai_yad](https://twitter.com/@jai_yad)
-- [LinkedIn](https://www.linkedin.com/in/jai-yadav-3893541)
+- @jai_yad (https://twitter.com/@jai_yad)
+- LinkedIn (https://www.linkedin.com/in/jai-yadav-3893541)
 
 ## Stepping out the door
 
